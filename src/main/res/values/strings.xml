@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Student Dashboard</string>
+    <string name="top_bar_title">Hey, %1$s</string>
+    <string name="is_today">Today</string>
+    <string name="is_yesterday">Yesterday</string>
+    <string name="is_last_week">Last week</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="submission_closed">Submission Closes</string>
+    <string name="submitted_text">Submitted</string>
+    <string name="not_submitted_text">Not submitted</string>
+    <string name="parking_spot_section_title">Available parking spots</string>
+</resources>
