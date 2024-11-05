@@ -36,7 +36,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern:
 
 Unit Testing
 
-Unit tests are provided for the ViewModel to ensure the correct data is presented to the UI. You can run the tests using the following command in Android Studio:
+Unit tests are provided for the ViewModel to ensure the correct data is presented to the UI. 
 
 GitHub Version Control
 
@@ -45,8 +45,11 @@ The development process has been tracked using GitHub. Each feature and function
 Dependencies
 
 Jetpack Compose: Used for building the UI components.
+
 Kotlin Coroutines: For managing asynchronous operations.
+
 Material Design Components: For styling the UI.
+
 JUnit: For unit testing the ViewModel.
 
 Future Improvements
