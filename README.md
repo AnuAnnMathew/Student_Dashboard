@@ -43,11 +43,13 @@ GitHub Version Control
 The development process has been tracked using GitHub. Each feature and functionality is committed separately to maintain clean and understandable version control.
 
 Dependencies
+
 Jetpack Compose: Used for building the UI components.
 Kotlin Coroutines: For managing asynchronous operations.
 Material Design Components: For styling the UI.
 JUnit: For unit testing the ViewModel.
 
 Future Improvements
+
 Add interactivity to the views for navigation.
 Implement data fetching from an actual API.
