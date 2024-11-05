@@ -35,9 +35,11 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern:
 4. Run the app on an emulator or physical device.
 
 Unit Testing
+
 Unit tests are provided for the ViewModel to ensure the correct data is presented to the UI. You can run the tests using the following command in Android Studio:
 
 GitHub Version Control
+
 The development process has been tracked using GitHub. Each feature and functionality is committed separately to maintain clean and understandable version control.
 
 Dependencies
