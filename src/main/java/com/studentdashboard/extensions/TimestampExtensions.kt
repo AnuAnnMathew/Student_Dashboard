@@ -28,7 +28,7 @@ private const val FORMAT_TO_NORMAL_DATE = "dd MMMM yyyy"
  * @return A string representing the formatted date.
  */
 private fun Long.formatTimestamp(format: String): String {
-    val simpleDateFormat = SimpleDateFormat(format, Locale("en", "IN"))
+    val simpleDateFormat = SimpleDateFormat(format, Locale("en", "AU"))
     return simpleDateFormat.format(this)
 }
 

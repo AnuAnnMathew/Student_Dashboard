@@ -49,3 +49,5 @@ data class TimeTableEvent(
     val startTime: Long,      // The start time of the event, in milliseconds since epoch.
     val endTime: Long         // The end time of the event, in milliseconds since epoch.
 ) : TimeTableItemType
+
+
